@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/245738/02b4d8424dcb4b9f863b57d43d280420
+bundleId: https://api.rpubs.com/api/v1/document/245738/02b4d8424dcb4b9f863b57d43d280420
+url: http://rpubs.com/tahseendata/245738
+when: 1485792635.27574
